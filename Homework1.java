@@ -68,7 +68,7 @@ public class Homework1 {
         String result15 = comment5.trim();
         System.out.println(result15);
 
-        //
+        //Сравнение строки со значением
         Boolean result16 = comment2.equals("@");
         System.out.println(result16);
 
