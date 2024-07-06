@@ -1,9 +1,7 @@
-package ru.inno.IntermediateCertification.Task1;
+package ru.inno.ru.inno.IntermediateCertification.Task1;
 
 import java.util.InputMismatchException;
-import java.util.List;
 import java.util.Scanner;
-import java.util.stream.Collectors;
 
 public class Task1 {
 
