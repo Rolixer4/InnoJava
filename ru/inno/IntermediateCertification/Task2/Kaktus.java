@@ -1,4 +1,4 @@
-package ru.inno.ru.inno.IntermediateCertification;
+package ru.inno.ru.inno.IntermediateCertification.Task2;
 
 import java.time.Duration;
 import java.time.LocalDate;
@@ -29,6 +29,8 @@ public class Kaktus {
             }
             else if (humidity < 30) {
                 System.out.println("Время полить кактус!");
+            } else {
+                System.out.println("Следите за датчиком! При влажности < 30% необходимо полить кактус!");
             }
         } else {
             if (between >= 7) {
